@@ -2,6 +2,10 @@ body {
   font:16px normal Arial, sans-serif;
 }
 
+.container {
+  padding:20px;
+}
+
 #reaction {
   color:#f00;
   font-weight:bold;
